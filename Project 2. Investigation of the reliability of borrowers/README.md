@@ -8,4 +8,4 @@
 1. Гипотезы *Семейное положение* и *Цель кредита* полностью подтвердились. Рекомендую специалистам использовать эти зависимости для построения скорринговой модели при кредитовании клиентов банка.
 2. Гипотезы *Количество детей* и *Уровень дохода* по предоставленной статистике не возможно опровергнуть или подтвердить, необходимо более полную выборку для подтверждения данных утверждений.
 
-[Развернуть проект Исследование надежности заемщиков](https://github.com/LeonidRadostev/Yandex-Practicum-Projects/blob/146093ffaef5dafab4b8ad038b1b1756f23807e8/Project%201.%20Music%20of%20big%20cities/music_of_big_cities.ipynb)
+[Развернуть проект Исследование надежности заемщиков](https://github.com/LeonidRadostev/Yandex-Practicum-Projects/blob/main/Project%202.%20Investigation%20of%20the%20reliability%20of%20borrowers/Investigation_of_the_reliability_of_borrowers.ipynb)
