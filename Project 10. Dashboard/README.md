@@ -15,3 +15,5 @@
 Рассказы-Путешествия, Общество-Россия, Наука-Кино.
 
 [Развернуть проект Взаимодействие пользователей с карточками Yandex.Dzen](https://github.com/LeonidRadostev/Yandex-Practicum-Projects/blob/main/Project%2010.%20Dashboard/present.pdf)
+
+[Дашборд](https://public.tableau.com/app/profile/leonid.radostev/viz/)
